@@ -4,4 +4,4 @@ const delka = 21
 
 const mzda = hodinaSazba * doba * delka
 
-document.body.innerHTML += "<p>Hrubá mzda činí " + mzda + " Kč/měsíc.</p>"
+document.body.innerHTML += "<p>Hrubá mzda uživatele činí " + mzda + " Kč/měsíc.</p>"
